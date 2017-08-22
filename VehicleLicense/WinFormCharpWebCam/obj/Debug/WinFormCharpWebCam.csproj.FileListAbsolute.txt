@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\VehicleLicense\VehicleLicense\WinFormCharpWebCam\obj\Debug\WinFormCharpWebCam.mainWinForm.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\VehicleLicense\VehicleLicense\WinFormCharpWebCam\obj\Debug\WinFormCharpWebCam.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\VehicleLicense\VehicleLicense\WinFormCharpWebCam\obj\Debug\WinFormCharpWebCam.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\VehicleLicense\VehicleLicense\WinFormCharpWebCam\bin\Debug\WinFormCharpWebCam.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\VehicleLicense\VehicleLicense\WinFormCharpWebCam\bin\Debug\WinFormCharpWebCam.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\VehicleLicense\VehicleLicense\WinFormCharpWebCam\bin\Debug\WebCam_Capture.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\VehicleLicense\VehicleLicense\WinFormCharpWebCam\obj\Debug\WinFormCharpWebCam.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\VehicleLicense\VehicleLicense\WinFormCharpWebCam\obj\Debug\WinFormCharpWebCam.pdb
